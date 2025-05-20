@@ -1,1 +1,4 @@
-git clone https://github.com/iadextno/iadextno.github.io.git
+cd iadextno.github.io
+git add .
+git commit -m “Initial Commit”
+https://github.com/iadextno/iadextno.git
